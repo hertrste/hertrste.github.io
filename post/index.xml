@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stefan Hertrampf</title>
-    <link>https://stefan-hertrampf.netlify.com/post/</link>
+    <link>https://hertrste.github.io/post/</link>
     <description>Recent content in Posts on Stefan Hertrampf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stefan-hertrampf.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hertrste.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Street Photography in Thailand</title>
-      <link>https://stefan-hertrampf.netlify.com/2020/01/20/thailand/</link>
+      <link>https://hertrste.github.io/2020/01/20/thailand/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://stefan-hertrampf.netlify.com/2020/01/20/thailand/</guid>
+      <guid>https://hertrste.github.io/2020/01/20/thailand/</guid>
       <description></description>
     </item>
     
