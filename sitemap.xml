@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/post/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/tags/street-photography/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/2020/01/20/thailand/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/tags/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/tags/thailand/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/tags/travel-photography/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/search/placeholder/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/top/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/top/privacy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefan-hertrampf.netlify.com/top/</loc>
+  </url>
+  
+</urlset>

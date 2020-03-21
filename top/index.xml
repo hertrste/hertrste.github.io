@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Stefan Hertrampf</title>
+    <link>https://stefan-hertrampf.netlify.com/top/</link>
+    <description>Recent content in Tops on Stefan Hertrampf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://stefan-hertrampf.netlify.com/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://stefan-hertrampf.netlify.com/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefan-hertrampf.netlify.com/top/about/</guid>
+      <description>Stefan Hertrampf is a software developer from Dresden with a strong passion for photography.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stefan-hertrampf.netlify.com/top/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefan-hertrampf.netlify.com/top/privacy/</guid>
+      <description>Privacy Deutsche Version: Soweit Sie Ihre Einwilligung erklärt haben, wird auf dieser Website Google Analytics eingesetzt, ein Webanalysedienst der Google Ireland Limited (&amp;bdquo;Google&amp;ldquo;). Die Nutzung umfasst die Betriebsart &amp;bdquo;Universal Analytics&amp;ldquo;. Hierdurch ist es möglich, Daten, Sitzungen und Interaktionen über mehrere Geräte hinweg einer pseudonymen User-ID zuzuordnen und so die Aktivitäten eines Nutzers geräteübergreifend zu analysieren.
+Google Analytics verwendet sog. &amp;bdquo;Cookies&amp;ldquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen.</description>
+    </item>
+    
+  </channel>
+</rss>
