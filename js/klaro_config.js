@@ -77,6 +77,7 @@ var klaroConfig = {
                 var gascript = document.createElement("script");
                 gascript.async = true;
                 gascript.src = "https://www.google-analytics.com/analytics.js";
+                var h = document.getElementsByTagName("head");
                 document.getElementsByTagName("head")[0].appendChild(gascript, document.getElementsByTagName("head")[0]);
               }
             },
