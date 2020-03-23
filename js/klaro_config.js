@@ -15,7 +15,7 @@ var klaroConfig = {
 
     // Show "accept all" to accept all apps instead of "ok" that only accepts
     // required and "default: true" apps
-    acceptAll: false,
+    acceptAll: true,
 
     // replace "decline" with cookie manager modal
     hideDeclineAll: false,
@@ -69,6 +69,7 @@ var klaroConfig = {
                 'Active User consent for app ' + app.name + ': consent=' + consent
               );
               if (consent) {
+                console.log('consented');
                 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
                 ga('create', 'UA-158910325-1', 'auto');
                 ga('set', 'anonymizeIp', true);
